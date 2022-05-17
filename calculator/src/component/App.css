@@ -1,0 +1,11 @@
+.component-app {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 100%;
+  font-weight: 300;
+  margin: 10%;
+}
+.util{
+  color: blueviolet;
+}
